@@ -3,3 +3,7 @@
 ![User interface](assets/images.png)
 
 Hello, my name is Alex and I am a Computer Science student at Chico State. I am excited to learn about how to design things that are easy and satisfying to learn.
+
+# UX Journal
+
+[Learning how to edit a video](j01/README.md)
